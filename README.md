@@ -1,2 +1,2 @@
-# project-1
-This is the description for my first test project.
+# Hello
+You've wandered into my tutorial project. How do you do?
